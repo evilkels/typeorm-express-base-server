@@ -1,0 +1,13 @@
+{
+  "type": "postgres",
+  "host": "127.0.0.1",
+  "port": 5432,
+  "username": "dev",
+  "password": "no1lidz8",
+  "database": "lu",
+  "entities": [
+    "src/entity/*.ts"
+  ],
+  "logging": false,
+  "synchronize": true
+}
